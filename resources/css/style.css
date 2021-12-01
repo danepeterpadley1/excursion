@@ -1,6 +1,28 @@
 /* Universal Styles */
 
 html {
-  font-family: "Roboto", sans-serif;
-  font-size: 16px;
+  font-family: "Verdana", sans-serif;
+  background-color: black;
+}
+
+h1 {
+	color: white;
+	font-size:50px;
+	text-align: center;
+}
+
+a {
+	font-size: 16px
+	color: aquamarine;
+	text-decoration: underline;
+	text-align: center;
+}
+
+h2	{
+	color: gray;
+	font-size: 21px;
+}
+
+footer	{
+	text-align: end;
 }
